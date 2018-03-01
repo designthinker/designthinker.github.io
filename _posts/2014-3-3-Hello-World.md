@@ -2,5 +2,5 @@
 layout: post
 title: Contact me anytime!
 ---
-email me: 
+email me:<br>
 <andy.sanghong@gmail.com> or <sangwoo.hong@lotte.net>
